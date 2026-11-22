@@ -38,7 +38,7 @@ JavaScript technologies.
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
- <a href="https://github.com/kamrul2006">  
+ <a href="https://github.com/kiapurba">  
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
@@ -122,9 +122,9 @@ Live: <https://kiapurba.vercel.app>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamrul2006&show_icons=true&theme=transparent&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul2006&layout=compact&theme=transparent&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=kamrul2006&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kiapurba&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiapurba&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kiapurba&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -132,7 +132,7 @@ Live: <https://kiapurba.vercel.app>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrul2006&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiapurba&theme=github-compact&hide_border=true"/>
 
 </p>
 
@@ -140,7 +140,7 @@ Live: <https://kiapurba.vercel.app>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kamrul2006&theme=algolia&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kiapurba&theme=algolia&no-frame=true"/>
 
 </p>
 
@@ -157,7 +157,7 @@ Live: <https://kiapurba.vercel.app>
 - 🌐 Portfolio: <https://kiapurba.vercel.app>
 - 💼 LinkedIn: <https://www.linkedin.com/in/kamrul-islam-apurba-kg/>
 - 📧 Email: <kamrulislamapurba@gmail.com>
-- 🐙 GitHub: <https://github.com/kamrul2006>
+- 🐙 GitHub: <https://github.com/kiapurba>
 
 ---
 
