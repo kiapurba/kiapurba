@@ -1,6 +1,5 @@
 ---
 
----
 <p align="center">
 
 <img src="./Ncover.jpg" width="100%" alt="Banner"/>
