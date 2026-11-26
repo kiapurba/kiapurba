@@ -8,8 +8,6 @@
 
 ---
 
----
-
 # Hi, I'm Kamrul Islam Apurba 👋
 
 ---
