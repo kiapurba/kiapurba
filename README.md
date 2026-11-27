@@ -105,17 +105,21 @@ Live : <https://k-web-tec.web.app>
 
 ---
 
+### 🇧🇩 Shadin-Bangla 2.0
+
+- Digital memorial platform
+- Responsive UI with Next.js and Tailwind CSS
+- Social authentication using NextAuth
+
+Live : <https://shadin-bangla-2-0.web.app>
+---
+
 ### 🏛️ K-HistoArts --- Historical Artifacts Platform
 
 - Browse and contribute historical artifacts
 - Like artifacts and manage contributions
 - Tech: React, Vite, Tailwind CSS, Firebase
 
-### 🇧🇩 Shadin-Bangla 2.0
-
-- Digital memorial platform
-- Responsive UI with Next.js and Tailwind CSS
-- Social authentication using NextAuth
 
 ### 🇵🇸 Free Palestine BD
 
