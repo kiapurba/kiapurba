@@ -91,6 +91,8 @@ JavaScript technologies.
 
 </p>
 
+---
+
 ## 🚀 Recent Projects
 
 ### 🛒 K-Tech --- Tech Hunting Platform
