@@ -122,10 +122,17 @@ Live : <https://shadin-bangla-2-0.web.app>
 - Like artifacts and manage contributions
 - Tech: React, Vite, Tailwind CSS, Firebase
 
+---
 
 ### 🇵🇸 Free Palestine BD
 
-- Awareness platform with responsive interface
+- Awareness platform with responsive interface.
+- providing real-time news, updates, and resources in solidarity with Palestine.
+- Tech: Next.js 15, Tailwind CSS, Framer Motion, Next-auth,	Keen Slider,	Lucide Icons.
+
+Live: <https://free-ps-bd-next.vercel.app>
+
+---
 
 ### 🌐 Portfolio
 
